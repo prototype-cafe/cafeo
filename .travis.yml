@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "0.10"
+  - '0.10'
 deploy:
   provider: heroku
   api_key:
@@ -9,3 +9,6 @@ deploy:
     mater: cafeo
   on:
     repo: prototype-cafe/cafeo
+notifications:
+  slack:
+    secure: T/aOSvbKnMZRRmzbshRzMd9t40/zEx/UJUxTNvB8gfSb6l+VLdica3XznDlZcOuB9GlOMVaUXGuV/fUUcaHXH3ecqQ5T5wF93srSl/+O4QLMSj0XYp6Vhnl3VlpEbBzPcuadl7OkzRjJiQDFzZtYnPFfY7rK7TCkXimFR+nTAYk=
