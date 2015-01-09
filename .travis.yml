@@ -6,7 +6,7 @@ deploy:
   api_key:
     secure: jBMt+Ni/AKv154oAC9CYvHfcxrYZyA2GIjEyYwMAsSQBF+T2lnUTlMzv8frg92RCdbtxiN9f6o8kcX4ELOaA97VZbjSaBLC/IkPui7va7rCKCw81Vkxjz0AOTb+wPqv5k/2yzd3H4X64lEuo6rypajRqLvwEPlqLjUJ574SP9Rk=
   app:
-    mater: cafeo
+    master: cafeo
   on:
     repo: prototype-cafe/cafeo
 notifications:
