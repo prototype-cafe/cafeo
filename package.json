@@ -20,7 +20,8 @@
     "hubot-shipit": "~0.1.1",
     "hubot-slack": "~3.1.0",
     "hubot-windows-dameOS": "git://github.com/prototype-cafe/hubot-windows-dameOS",
-    "hubot-youtube": "~0.1.2"
+    "hubot-youtube": "~0.1.2",
+    "hubot-nullpo": "0.0.3"
   },
   "engines": {
     "node": "0.10.x"
