@@ -5,6 +5,7 @@
   "author": "highwide <hochweit728@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "coffee-script": "^1.9.1",
     "hubot": "^2.11.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "~0.1.1",
@@ -16,6 +17,7 @@
     "hubot-otsukare-yamero": "git://github.com/prototype-cafe/hubot-otsukare-yamero.git",
     "hubot-pugme": "~0.1.0",
     "hubot-redis-brain": "0.0.2",
+    "hubot-rss-reader": "^0.6.5",
     "hubot-rules": "~0.1.0",
     "hubot-scripts": "~2.5.16",
     "hubot-shipit": "~0.1.1",
