@@ -11,7 +11,6 @@
     "hubot-google-images": "~0.1.4",
     "hubot-google-translate": "~0.1.0",
     "hubot-help": "~0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
     "hubot-maps": "git://github.com/wildtree/hubot-maps.git#multibyte",
     "hubot-nullpo": "0.0.3",
     "hubot-otsukare-yamero": "git://github.com/prototype-cafe/hubot-otsukare-yamero.git",
