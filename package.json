@@ -8,7 +8,7 @@
     "coffee-script": "^1.9.1",
     "hubot": "^2.11.4",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "~0.1.4",
+    "hubot-google-images": "~0.2.6",
     "hubot-google-translate": "~0.1.0",
     "hubot-help": "~0.1.1",
     "hubot-maps": "git://github.com/wildtree/hubot-maps.git#multibyte",
