@@ -13,7 +13,6 @@
     "hubot-help": "~0.1.1",
     "hubot-maps": "git://github.com/wildtree/hubot-maps.git#multibyte",
     "hubot-nullpo": "0.0.3",
-    "hubot-otsukare-yamero": "git://github.com/prototype-cafe/hubot-otsukare-yamero.git",
     "hubot-pugme": "~0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rss-reader": "^0.6.5",
